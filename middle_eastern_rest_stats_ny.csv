@@ -1,0 +1,51 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Morris Heights,4b298f71f964a520eba024e3,Golan Heights,20,7.8,10
+Brooklyn,Bay Ridge,4b6785d6f964a520aa532be3,Karam,66,8.8,36
+Brooklyn,Bay Ridge,58bee70d5804ea784f84ad53,Ruzana,9,7.7,4
+Brooklyn,Manhattan Terrace,4cd2f57125ee6dcb7054470f,Aksaray Gyro,12,7.3,1
+Brooklyn,Flatbush,4d90d33b5091a1cdf601c401,Gyro King,12,7.7,6
+Brooklyn,Flatbush,49ee54faf964a5204d681fe3,Mimi's Hummus,125,8.4,52
+Brooklyn,Kensington,548f5320498e0c4239295d00,Batata Pita Bar,59,8.8,52
+Brooklyn,Kensington,4b3f8f95f964a5201ca925e3,Gyro Cafe,6,6.7,6
+Brooklyn,Windsor Terrace,4cc5b65b01fb236a4d41b3ba,Bedawi Cafe,12,7.8,10
+Brooklyn,Windsor Terrace,548f5320498e0c4239295d00,Batata Pita Bar,59,8.8,52
+Brooklyn,Williamsburg,4efdcdf30cd6fe62d517e63e,Kabob Shack,50,7.7,42
+Brooklyn,Brooklyn Heights,43eb685af964a520382f1fe3,Yemen Cafe,324,9.1,95
+Brooklyn,Brooklyn Heights,4a7b8866f964a52052eb1fe3,Fatoosh BBQ & Pizza,40,8.2,13
+Brooklyn,Cobble Hill,43eb685af964a520382f1fe3,Yemen Cafe,324,9.1,95
+Brooklyn,Cobble Hill,4a7b8866f964a52052eb1fe3,Fatoosh BBQ & Pizza,40,8.2,13
+Brooklyn,Mill Island,0,0,0,0.0,0
+Brooklyn,Dyker Heights,4b6785d6f964a520aa532be3,Karam,66,8.8,36
+Brooklyn,Dyker Heights,58bee70d5804ea784f84ad53,Ruzana,9,7.7,4
+Brooklyn,Dyker Heights,4c1a9b71b306c92811e060b7,Halal Food Stand (across from Pizza Wagon),10,6.8,17
+Brooklyn,Clinton Hill,4a034bdaf964a520a9711fe3,Black Iris,56,7.8,44
+Brooklyn,Downtown,43164480f964a52065271fe3,Bedouin Tent,340,8.9,121
+Brooklyn,Downtown,4e9ccfeb9a5262f980e59ea0,Bijan's,177,8.0,74
+Brooklyn,Boerum Hill,43164480f964a52065271fe3,Bedouin Tent,340,8.9,121
+Brooklyn,Midwood,4a28b33cf964a5204c951fe3,Olympic Pita,12,6.6,2
+Brooklyn,Prospect Park South,49ee54faf964a5204d681fe3,Mimi's Hummus,125,8.4,52
+Brooklyn,Ocean Parkway,4cd2f57125ee6dcb7054470f,Aksaray Gyro,12,7.3,1
+Brooklyn,Ocean Parkway,4b8eef52f964a520a63f33e3,David's Restaurant,10,6.9,3
+Brooklyn,Fort Hamilton,4b6785d6f964a520aa532be3,Karam,66,8.8,36
+Brooklyn,Fort Hamilton,58bee70d5804ea784f84ad53,Ruzana,9,7.7,4
+Manhattan,Washington Heights,4b298f71f964a520eba024e3,Golan Heights,20,7.8,10
+Manhattan,Hamilton Heights,4b5a620cf964a52086c128e3,Queen Sheeba,14,8.1,12
+Manhattan,Central Harlem,4b5a620cf964a52086c128e3,Queen Sheeba,14,8.1,12
+Manhattan,Upper West Side,5b68d2a5a22db700393e0f9e,Gazala's,14,8.1,3
+Manhattan,Upper West Side,500dd1e6e4b0e95405a58703,Grill 212,20,8.2,11
+Manhattan,Greenwich Village,45a7dc66f964a52019411fe3,12 Chairs,411,9.1,132
+Manhattan,Morningside Heights,516056cfe4b027d842497b45,Silvana,174,8.4,57
+Queens,Astoria,4ba58abaf964a520d01039e3,Al-sham Sweets and Pastries,34,8.9,11
+Queens,Astoria,578837cecd108caad4364993,King of Falafel and Shawarma,7,8.0,2
+Queens,Astoria,4276bf00f964a5208e211fe3,Mombar,21,7.6,22
+Queens,Astoria,4b726a56f964a520467a2de3,Halal Sandwich Shop,14,7.5,6
+Queens,Forest Hills,4c39273b2c8020a194458c00,Arzu,13,7.8,6
+Queens,Forest Hills,4df50e846284fefe8fc7dba4,Stix Kosher Restaurant,21,7.7,10
+Queens,Sunnyside,4e5836461f6e2a1922e29c82,Souk El Shater,32,8.3,23
+Queens,Rego Park,4c39273b2c8020a194458c00,Arzu,13,7.8,6
+Queens,Rego Park,4df50e846284fefe8fc7dba4,Stix Kosher Restaurant,21,7.7,10
+Queens,Little Neck,4b79c89df964a520cc112fe3,Kebab House,10,7.4,4
+Queens,Douglaston,4b79c89df964a520cc112fe3,Kebab House,10,7.4,4
+Queens,Kew Gardens Hills,4b297d4df964a520c09f24e3,Grill Point,26,7.6,21
+Queens,Kew Gardens Hills,4b5cdb93f964a520b14729e3,Hapisgah Steak House,18,7.0,9
+Queens,Kew Gardens Hills,4be30043d27a20a11df4905b,Pita Hot,6,5.8,6
